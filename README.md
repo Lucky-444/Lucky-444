@@ -1,11 +1,10 @@
-<h2 align="left">Hi 👋! This is Sashank </h2>
-<p>IT undergrad (Dec. 2023 - May. 2027) @ OUTR (CGPA: 9.49) | 💻 Full-Stack Web Developer | 📈 DSA Enthusiast | 🤖 Exploring AI/ML</p>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucky-444&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucky-444&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -45,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Lucky-444/Lucky-444/output/snake.svg" alt="Snake animation" />
 
 ###
