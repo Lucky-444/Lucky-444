@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! This is Sashank </h2>
+<p>IT undergrad (Dec. 2023 - May. 2027) @ OUTR (CGPA: 9.49) | 💻 Full-Stack Web Developer | 📈 DSA Enthusiast | 🤖 Exploring AI/ML</p>
 
 ###
 
