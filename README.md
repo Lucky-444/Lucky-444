@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! This is Sashanka Sekhar Swain </h2>
 <p>🚀 IT undergrad (Dec. 2023 - May. 2027) @ OUTR (CGPA: 9.49) | 💻 Full-Stack Web Developer | 📈 DSA Enthusiast | 🤖 Exploring AI/ML</p>
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucky-444&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
