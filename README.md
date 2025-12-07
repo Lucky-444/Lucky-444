@@ -2,8 +2,8 @@
 <p>🚀 IT undergrad (Dec. 2023 - May. 2027) @ OUTR (CGPA: 9.49) | 💻 Full-Stack Web Developer | 📈 DSA Enthusiast | 🤖 Exploring AI/ML</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucky-444&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky-444&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Lucky-444&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Lucky-444&layout=compact&theme=dracula" height="150"/>
 </div>
 
 ###
@@ -12,12 +12,11 @@
 
 ###
 
-<!-- GitHub Activity Graph -->
 ![Lucky's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucky-444&bg_color=292929&color=b9b1b8&line=11c054&point=ffffff&area=true&hide_border=true)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucky-444&theme=vue-dark&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky-444&theme=vue-dark&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Lucky-444&theme=vue-dark&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Lucky-444&theme=vue-dark&layout=compact&hide_border=true"/>
 </div>
 
 ###
@@ -48,9 +47,6 @@
   <a href="https://www.linkedin.com/in/sashanka-swain-856640255/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
 </div>
 
-###
-
 <br clear="both">
 
-<!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Lucky-444/Lucky-444/output/snake.svg" alt="Snake animation" />
