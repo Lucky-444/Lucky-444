@@ -1,42 +1,56 @@
-<h2 align="left">Hi 👋! This is Sashanka Sekhar Swain</h2>
+<h1 align="center">Hi 👋, I'm Sashanka Sekhar Swain</h1>
+<h3 align="center">IT Undergrad | Full-Stack Developer | DSA Enthusiast</h3>
 
-<p>
-🚀 IT Undergrad (Dec 2023 – May 2027) @ OUTR (CGPA: 9.49) <br/>
-💻 Full-Stack Web Developer | 📈 DSA Enthusiast | 🤖 Exploring AI/ML
+<p align="center">
+  🚀 OUTR (Dec 2023 – May 2027) • CGPA: <b>9.49</b><br/>
+  🤖 Exploring AI/ML • 💻 Web Development • 📈 Competitive Programming
 </p>
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Lucky-444&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky-444&layout=compact&theme=dracula&hide_border=true" />
-</div>
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="left" height="180" 
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-### 📊 GitHub Activity
+<img align="right" height="180" 
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucky-444&theme=react-dark&hide_border=true" />
+<div align="center" >
+
+### 👨‍💻 About Me
+
+<sub>
+🎓 IT Undergraduate at <b>Odisha University of Technology and Research</b><br/>
+💡 Strong interest in <b>DSA, System Design & Backend Development</b><br/>
+🌱 Currently learning <b>AI/ML & Advanced React</b><br/>
+🧠 Problem-solving mindset with clean code habits
+</sub>
+
+</div>
+
+<br/><br/>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucky-444&theme=react-dark&hide_border=true" />
 
 ---
 
