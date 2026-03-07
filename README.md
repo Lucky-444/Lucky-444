@@ -2,7 +2,7 @@
 <h3 align="center">IT Undergrad | Full-Stack Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  🚀 OUTR (Dec 2023 – May 2027) • CGPA: <b>9.49</b><br/>
+  🚀 OUTR (Dec 2023 – May 2027) • CGPA: <b>9.45</b><br/>
   🤖 Exploring AI/ML • 💻 Web Development • 📈 Competitive Programming
 </p>
 
